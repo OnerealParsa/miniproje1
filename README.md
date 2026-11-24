@@ -4,7 +4,7 @@ A university assignment in C++: a single-file console program that manages stude
 
 ## Features
 
-- Add a student record (name, student ID, units, GPA)
+- Add a student record (name, student ID, units, GPA, security code)
 - Rejects duplicate student IDs
 - Linked-list based storage
 
